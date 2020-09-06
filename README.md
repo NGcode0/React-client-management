@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Management System
+this project is client management system for React education
 
 ## Available Scripts
 
